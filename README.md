@@ -1,6 +1,6 @@
 # Mandible Segmentation using U-Net
 
-This repository contains a PyTorch-based implementation for automating the segmentation of the mandible from medical images (e.g., panoramic X-rays or CT slices). The project utilizes a U-Net architecture with a pre-trained encoder to achieve high-accuracy segmentation.
+This repository contains a PyTorch-based implementation for automating the segmentation of the mandible from panoramic X-rays. The project utilizes a U-Net architecture with a pre-trained encoder to achieve high-accuracy segmentation.
 
 ## 🚀 Key Features
 
