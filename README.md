@@ -2,6 +2,8 @@
 
 This repository contains a PyTorch-based implementation for automating the segmentation of the mandible from panoramic X-rays. The project utilizes a U-Net architecture with a pre-trained encoder to achieve high-accuracy segmentation.
 
+<img width="1489" height="1148" alt="UNET" src="https://github.com/user-attachments/assets/35f8f1a2-0eaa-42c6-83b7-2c40fc6e00dd" />
+
 ## 🚀 Key Features
 
 * **Model Architecture:** Implements a U-Net model using the `segmentation-models-pytorch` library, featuring a **ResNet-34** encoder pre-trained on ImageNet.
