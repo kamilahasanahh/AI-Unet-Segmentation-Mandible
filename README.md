@@ -43,9 +43,8 @@ The notebook is configured to load data from Google Drive in the following struc
 
 The model tracks several metrics throughout training. In the initial phases, the notebook recorded the following for Epoch 1:
 
-* **Train Dice Score:** ~0.48
-* **Validation Dice Score:** ~0.56
-* **Train Accuracy:** ~98%
+* **Dice Score:** ~79%
+* **Accuracy:** ~78%
 
 Best model weights are automatically saved to `checkpoints/unet_model_best.pth` based on the lowest validation loss.
 
